@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aqua;
+    padding:10px;
+}
+
+header a {
+    text-decoration:dashed;
+    border-radius:10px;
+    background-color: white;
+    padding:5px;
+}
+
+main h1 {
+    color: blue;
+}
+
+footer p {
+    background-color: coral;
+}
+
+nav a {
+    background-color:rgb(53, 120, 219); 
+    text-decoration:dashed;
+    border-radius:10px;
+    color: white; 
+    padding:5px;
+    margin:5px;       
+} 
+
+p img {
+    background-color: chartreuse;
+    padding:5px;
+    border-radius:10px;
+}
+
+h2 {
+    color: #566ef1;
+}
+
+.naverx {
+     background-color:rgb(53, 120, 219); 
+    text-decoration:dashed;
+    border-radius:10px;
+    color: white; 
+    padding:5px;
+    margin:5px; 
+}
